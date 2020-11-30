@@ -18,3 +18,6 @@ para la moduladora QPSK, este promedio se compara con la media de la 'senal_TX' 
 
 - Por último, se grafica la densidad espectral de potencia para la señal modulada senal_Tx. Para esto, se implementa el método que brinda el profesor
 en el video del proyecto. Este genera una gráfica con el espectro de la transformada de fourier para la señal modulada del método QPSK (senal_Tx).
+
+Estudiante: Luis Oviedo
+Carné: B65206
